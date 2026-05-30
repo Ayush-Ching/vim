@@ -1,4 +1,4 @@
-# A lightweight config for vim (without lsp)
+# A lightweight config for vim with LSPs
 
 Make sure to add the following to ~/.fdignore and ~/.rgignore
 ```
